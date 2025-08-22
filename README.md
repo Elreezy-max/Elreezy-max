@@ -1,6 +1,6 @@
-## Hi there 👋
+ Hi there 👋
 
-Here are some ideas to get you started:
+My name is Brandon Elrod
 
 - 🔭 I’m currently working on CyberSecurity and Software Development Diploma at Northwest Shoals Community College
 - 🌱 I’m currently learning web and apps development
